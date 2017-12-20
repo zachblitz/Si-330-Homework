@@ -1,0 +1,460 @@
+SentID_GM,Sentence,Targ,Sentence_With_Blank,SimilarTo_Sentence,SimilarTo_SentID_GM,Alternate_SimilarTo_Sentence,Alternate_SimilarTo_SentID_GM,SimilarTo_Targets
+4397,I go to school because I want to get a good [education].,education,I go to school because I want to get a good [education].,,,,,
+4398,Our class talked about whether or not robots have [emotions].,emotion,Our class talked about whether or not robots have [emotions].,,,,,
+746,"In some countries, girls are [browbeat] into marrying at a very young age.",browbeat,"In some countries, girls are XXXXX into marrying at a very young age.",,,,,
+748,The company tried to [browbeat] them into signing the deal. ,browbeat,The company tried to XXXXX them into signing the deal.,,,,,
+745,Jane wanted to [browbeat] her sister into revealing the truth.,browbeat,Jane wanted to XXXXX her sister into revealing the truth.,,,,,
+754,His wife nagged and [browbeat] him into purchasing the necklace.,browbeat,His wife nagged and XXXXX him into purchasing the necklace.,,,,,
+741,Patrick was surprised that his coworker wanted to [browbeat] him.,browbeat,Patrick was surprised that his coworker wanted to XXXXX him.,,,,,
+749,The boss decided to [browbeat] the workers into leaving.,browbeat,The boss decided to XXXXX the workers into leaving.,,,,,
+756,"Sarah wanted to talk, not [browbeat] her husband into agreement.",browbeat,"Sarah wanted to talk, not XXXXX her husband into agreement.",,,,,
+742,"After Brenda left, the boys all began to [browbeat] one another.",browbeat,"After Brenda left, the boys all began to XXXXX one another.",,,,,
+752,John's Dad usually has to yell and [browbeat] him into doing his chores. ,browbeat,John's Dad usually has to yell and XXXXX him into doing his chores.,,,,,
+3702,"A coach should provide leadership, not [browbeat] the athletes.",browbeat,"A coach should provide leadership, not XXXXX the athletes.",,,"A coach should provide leadership, not [browbeat] the players.",1083,browbeat
+61,"The trickster wore regular clothes to blend in, a [canny] move. ",canny,"The trickster wore regular clothes to blend in, a XXXXX move.",,,,,
+70,"It is possible to be clever or [canny], without being selfish.",canny,"It is possible to be clever or [canny], without being selfish.",,,,,
+68,Victor realized she must be very [canny] to get away with the theft.,canny,Victor realized she must be very XXXXX to get away with the theft.,,,,,
+72,We never guessed we'd been tricked because the magician was so [canny].,canny,We never guessed we'd been tricked because the magician was so [canny].,We never guessed the trick because the magician was so [versute].,3220,The magician was so [vafrous] that we never guessed we'd been tricked.,3218,"versute,vafrous"
+60,The new boy in school had a [canny] look on his face.,canny,The new boy in school had a XXXXX look on his face.,,,The little boy in the corner had a [versute] look on his face.,3625,versute
+64,You must be careful if you want to be a [canny] investor.,canny,You must be careful if you want to be a XXXXX investor.,,,,,
+65,I didn't trust the new boy because he had a [canny] look.,canny,I didn't trust the new boy because he had a XXXXX look.,I didn't trust the new boy because he had a [vafrous] look about him.,3105,,,vafrous
+62,"When Jack wanted to get agreement, he had a [canny] means of persuasion.",canny,"When Jack wanted to get agreement, he had a XXXXX means of persuasion.",,,,,
+66,The girl won us over with her [canny] sense of what to say.,canny,The girl won us over with her XXXXX sense of what to say.,,,,,
+63,Lawyers must be thoughtful and [canny] in order to succeed.,canny,Lawyers must be thoughtful and XXXXX in order to succeed.,,,,,
+787,The school created an area where the kids could [cavort] at recess.,cavort,The school created an area where the kids could XXXXX at recess.,The school created a new playground where the kids [kerlerap] at recess.,3509,,,kerlerap
+789,Each summer we have a festival with rides and places for kids to [cavort].,cavort,Each summer we have a festival with rides and places for kids to [cavort].,Each summer we have a festival with adult rides and places for kids to [kerlerap].,3512,,,kerlerap
+1085,"At the park, parents watch their children laugh and [cavort] on the jungle gym.",cavort,"At the park, parents watch their children laugh and XXXXX on the jungle gym.","At the park, parents watch their children laugh and [cavort] on the jungle Jim.",788,,,cavort
+779,We decided to look for another place to [cavort].,cavort,We decided to look for another place to [cavort].,,,,,
+776,It is important to set aside time to [cavort] every day.,cavort,It is important to set aside time to XXXXX every day.,,,,,
+784,"At the prom, the teenagers laughed and [cavorted] to the music.",cavort,"At the prom, the teenagers laughed and [cavorted] to the music.","At the prom, the teenagers danced and [kerlerap] until the DJ stopped the music.",3510,,,kerlerap
+781,They monkeys hooted as they [cavorted] in the branches.,cavort,They monkeys hooted as they [cavorted] in the branches.,,,,,
+801,The kids were almost arrested for [defiling] city property. ,defile,The kids were almost arrested for [defiling] city property.,,,,,
+810,"We cleaned up the park, which had been [defiled] by careless visitors.",defile,"We cleaned up the park, which had been [defiled] by careless visitors.","We cleaned up the park, which had been [inquinate] by empty cans and trash.",3487,,,inquinate
+804,"After the news release, she feared that the story had [defiled] her reputation.",defile,"After the news release, she feared that the story had [defiled] her reputation.",,,,,
+806,The man was fined for [defiling] the artwork with a permanent marker.,defile,The man was fined for [defiling] the artwork with a permanent marker.,,,,,
+793,Adam and his friends spent a lot of time [defiling] things this week.,defile,Adam and his friends spent a lot of time [defiling] things this week.,,,,,
+803,A bunch of kids had broken in and [defiled] the paintings.,defile,A bunch of kids had broken in and [defiled] the paintings.,,,,,
+NA,The sign said that visitors would be arrested if they [defile] anything.,defile,The sign said that visitors would be arrested if they XXXXX anything.,,,,,
+802,We were shocked to learn the tomb had been [defiled] by pirates.,defile,We were shocked to learn the tomb had been [defiled] by pirates.,,,,,
+800,It's a shame that this area has been [defiled] by tourists.,defile,It's a shame that this area has been [defiled] by tourists.,It's a shame that this once pristine land has been [inquinate] by a trash dump.,3495,,,inquinate
+1088,We saw that the river had been [defiled] with raw sewage.,defile,We saw that the river had been [defiled] with raw sewage.,,,We saw that the river was [defiled] with raw sewage.,4606,defiled
+126,The barks and howls of dogs created too much [din] for us to sleep.,din,The barks and howls of dogs created too much XXXXX for us to sleep.,,,,,
+113,After about an hour the [din] had all but disappeared.,din,After about an hour the XXXXX had all but disappeared.,,,,,
+119,We tried to continue our discussion amid the [din] of the crowd.,din,We tried to continue our discussion amid the XXXXX of the crowd.,,,,,
+123,The jackhammer causes a greater [din] than any other tool.,din,The jackhammer causes a greater XXXXX than any other tool.,The jackhammer causes greater [din] than any other tool.,1090,,,din
+117,The thief was able to sneak away amid the [din] from the party.,din,The thief was able to sneak away amid the XXXXX from the party.,,,"With all the [strepor] from the party, the thief was able to sneak away.",3072,strepor
+118,It's easy to be distracted by all the [din] around here.,din,It's easy to be distracted by all the XXXXX around here.,,,,,
+115,Sometimes I want to relax and get away from all the [din].,din,Sometimes I want to relax and get away from all the [din].,,,,,
+409,Sadness that never seems to go away is known as [dolor].,dolor,Sadness that never seems to go away is known as [dolor].,,,,,
+414,"When his owner failed to return, the old dog experienced much [dolor].",dolor,"When his owner failed to return, the old dog experienced much [dolor].",,,,,
+411,"The story conveyed a sense of loss, regret, and [dolor]. ",dolor,"The story conveyed a sense of loss, regret, and [dolor].",,,,,
+413,The pictures of his childhood filled him with [dolor] and regret.,dolor,The pictures of his childhood filled him with XXXXX and regret.,,,,,
+399,"Yesterday, Sheila remembered to talk about the importance of [dolor].",dolor,"Yesterday, Sheila remembered to talk about the importance of [dolor].",,,,,
+1092,"When he saw the room, he was overcome with [dolor].",dolor,"When he saw the room, he was overcome with [dolor].",,,"When we saw the room, he was overcome with [dolor].",408,dolor
+405,"The old man was alone, with the rain and his own [dolor].",dolor,"The old man was alone, with the rain and his own [dolor].",,,,,
+406,"The weather continued, and we were overcome with [dolor].",dolor,"The weather continued, and we were overcome with [dolor].",,,,,
+403,Prisoners of war often suffer from hunger and [dolor].,dolor,Prisoners of war often suffer from hunger and [dolor].,,,,,
+1094,"Most people hope for a good life, which is free of [dolor].",dolor,"Most people hope for a good life, which is free of [dolor].",,,,,
+843,"After the big parade, the street was full of all the [dross] people had left behind.",dross,"After the big parade, the street was full of all the XXXXX people had left behind.",,,,,
+838,"After the New Year's party, the streets were littered with [dross].",dross,"After the New Year's party, the streets were littered with [dross].",,,,,
+841,The streets of the run-down neighborhood were lined with graffiti and [dross].,dross,The streets of the run-down neighborhood were lined with graffiti and [dross].,,,,,
+846,I would rather sit in silence than listen to this CD full of terrible [dross].,dross,I would rather sit in silence than listen to this CD full of terrible [dross].,,,,,
+831,"Out of the corner of his eye, Will saw some [dross].",dross,"Out of the corner of his eye, Will saw some [dross].",,,,,
+839,"His diet consists of candy, corn chips and other [dross].",dross,"His diet consists of candy, corn chips and other [dross].",,,,,
+836,Who's to say what is valuable and what is [dross]? ,dross,Who's to say what is valuable and what is [dross]?,,,,,
+844,The hurricane destroyed the town and left the streets full of [dross].,dross,The hurricane destroyed the town and left the streets full of [dross].,,,,,
+840,Sometimes you need to sort through a lot of [dross] to find something nice.,dross,Sometimes you need to sort through a lot of XXXXX to find something nice.,,,,,
+835,We were disappointed when we saw that our motel room was filled with [dross].,dross,We were disappointed when we saw that our motel room was filled with [dross].,,,,,
+141,Sean ate lots of fatty foods to put some weight on his [emaciated] body.,emaciated,Sean ate lots of fatty foods to put some weight on his XXXXX body.,Sean ate lots of fatty foods to put some weight on his [macilent] body.,2436,,,macilent
+128,Maria thought that her daughter seemed [emaciated] last week.,emaciated,Maria thought that her daughter seemed XXXXX last week.,Maria thought that her daughter seemed [macilent] last week.,2442,,,macilent
+135,The doctor warned the woman she was too [emaciated] from a poor diet.,emaciated,The doctor warned the woman she was too XXXXX from a poor diet.,The doctor warned the woman she was too [macilent] from a poor diet.,2440,,,macilent
+134,"When we saw Tom, he seemed to be feeling better but was still [emaciated].",emaciated,"When we saw Tom, he seemed to be feeling better but was still [emaciated].",,,,,
+133,The doctor was concerned because the girl looked [emaciated]. ,emaciated,The doctor was concerned because the girl looked [emaciated].,,,,,
+136,"The girl looked surprisingly [emaciated], and we wondered if she had been sick.",emaciated,"The girl looked surprisingly [emaciated], and we wondered if she had been sick.",The girl looked so [macilent] I wondered if she had been sick.,2946,,,macilent
+137,Some people think that they need to be [emaciated] in order to be attractive.,emaciated,Some people think that they need to be XXXXX in order to be attractive.,,,Some people think that they need to appear [gallionic] to be cool.,3463,gallionic
+177,"Some think that animal prints are pretty, but others think they're [garish].",garish,"Some think that animal prints are pretty, but others think they're [garish].","Some think that animal prints are elegant, but others think they're [criant].",3154,,,criant
+176,"The hat had so many bright colors and sequins that it was [garish], instead of elegant.",garish,"The hat had so many bright colors and sequins that it was [garish], instead of elegant.",,,,,
+180,Makeup that is too thick or extreme can be [garish] instead of pretty.,garish,Makeup that is too thick or extreme can be XXXXX instead of pretty.,,,,,
+1096,"Susan pretended the necklace was pretty, rather than [garish].",garish,"Susan pretended the necklace was pretty, rather than [garish].",,,,,
+163,"When Martin showed the new one to Tina, she thought it was [garish].",garish,"When Martin showed the new one to Tina, she thought it was [garish].","When Martin showed the new one to Tina, she thought it was [criant].",3147,,,criant
+179,"She accepted the engagement ring, although it was poorly crafted and [garish].",garish,"She accepted the engagement ring, although it was poorly crafted and [garish].","She accepted the engagement ring, although it was poorly crafted and even [criant].",3177,,,criant
+167,We were surprised that the one she chose was not very [garish].,garish,We were surprised that the one she chose was not very [garish].,,,,,
+170,"Cinderella had two very mean stepsisters, who wore [garish] jewels to flaunt their wealth.",garish,"Cinderella had two very mean stepsisters, who wore XXXXX jewels to flaunt their wealth.",Cinderella had two very mean and [criant] stepsisters.,2774,,,criant
+172,"Kelly spent lots of money redecorating her house, but it was still [garish].",garish,"Kelly spent lots of money redecorating her house, but it was still [garish].","Kelly spent lots of money redecorating her house, but it was still [criant].",3155,,,criant
+169,Heather was ashamed of the dress because it was so [garish].,garish,Heather was ashamed of the dress because it was so [garish].,Heather was ashamed of the [criant] green dress.,2771,,,criant
+197,"At Thanksgiving, we express [gramercy] for what we have.",gramercy,"At Thanksgiving, we express XXXXX for what we have.",,,,,
+194,The man saved my life and I wanted to show [gramercy] in return.,gramercy,The man saved my life and I wanted to show XXXXX in return.,,,,,
+196,She felt relieved and expressed [gramercy] for the help of the volunteers.,gramercy,She felt relieved and expressed XXXXX for the help of the volunteers.,,,,,
+189,"After the disaster, we expressed [gramercy] to the volunteers who helped rebuild the town.",gramercy,"After the disaster, we expressed XXXXX to the volunteers who helped rebuild the town.",,,,,
+192,We built the park in his name to show [gramercy] for all of his work.,gramercy,We built the park in his name to show XXXXX for all of his work.,,,,,
+190,"At the end of the school year, we put on a show to express our [gramercy].",gramercy,"At the end of the school year, we put on a show to express our [gramercy].",,,,,
+183,"Chris was surprised, because he had not expected to receive any [gramercy].",gramercy,"Chris was surprised, because he had not expected to receive any [gramercy].",,,Chris had not expected to receive any [gramercy].,3189,gramercy
+188,She wrote a letter expressing her [gramercy] to the company.,gramercy,She wrote a letter expressing her XXXXX to the company.,She wrote a letter of [gramercy] to the company when she came home.,2284,,,gramercy
+427,Rory didn't like what was for dinner and wouldn't stop [grousing] about it. ,grouse,Rory didn't like what was for dinner and wouldn't stop [grousing] about it.,,,,,
+1099,"When students find their homework challenging, they often [grouse] about it.",grouse,"When students find their homework challenging, they often XXXXX about it.","When students find their homework challenging, they often [groused] about it.",428,,,groused
+421,"Even though the spoiled girl had everything, she still [groused].",grouse,"Even though the spoiled girl had everything, she still [groused].","Even though the spoiled girl had everything, she still [repined].",3063,,,repined
+1101,It is better to look for solutions than to fuss and [grouse].,grouse,It is better to look for solutions than to fuss and [grouse].,,,,,
+430,"The kids didn't think their punishment was fair, so they [groused] and sulked.",grouse,"The kids didn't think their punishment was fair, so they [groused] and sulked.",,,,,
+422,"When they don't get what they want, some people [grouse]. ",grouse,"When they don't get what they want, some people [grouse].","When they don't get what they want, some people automatically [glower].",1694,,,glower
+432,"When they were asked to clean up, they started to [grouse]. ",grouse,"When they were asked to clean up, they started to [grouse].",,,,,
+429,Laura hated dresses and [groused] when her mother asked her to wear one. ,grouse,Laura hated dresses and [groused] when her mother asked her to wear one.,,,,,
+899,The government gives farmers extra money as an [incentive] to grow more corn.,incentive,The government gives farmers extra money as an XXXXX to grow more corn.,,,,,
+898,The swim team held extra practices before championships because winning was their [incentive].,incentive,The swim team held extra practices before championships because winning was their [incentive].,,,,,
+889,"The boss wanted William to do better, so he offered them an [incentive].",incentive,"The boss wanted William to do better, so he offered them an [incentive].",,,,,
+896,Free access to the pool was the [incentive] I needed to join the gym.,incentive,Free access to the pool was the XXXXX I needed to join the gym.,,,,,
+887,We decided that we did not want the [incentive] after all.,incentive,We decided that we did not want the XXXXX after all.,,,,,
+892,"During the fundraiser, the class that raised the most money got an [incentive].",incentive,"During the fundraiser, the class that raised the most money got an [incentive].",,,,,
+894,I was motivated to work harder after I was offered the [incentive].,incentive,I was motivated to work harder after I was offered the [incentive].,,,,,
+988,"When the child returned my 20 dollars, I was impressed with his [integrity]. ",integrity,"When the child returned my 20 dollars, I was impressed with his [integrity].",,,,,
+990,"Leah never cheats, lies or steals because she has strong [integrity].",integrity,"Leah never cheats, lies or steals because she has strong [integrity].",,,,,
+984,Some people think that politicians have no [integrity].,integrity,Some people think that politicians have no [integrity].,,,,,
+1104,Being honest and true to one's beliefs are signs of [integrity].,integrity,Being honest and true to one's beliefs are signs of [integrity].,,,,,
+978,I couldn't tell if the man had [integrity] or not. ,integrity,I couldn't tell if the man had XXXXX or not.,,,I couldn't tell if the Karen had [integrity] or not.,4481,integrity
+982,Jim is never tempted to steal because he has [integrity]. ,integrity,Jim is never tempted to steal because he has [integrity].,,,,,
+983,Tom is often selfish and has very little [integrity].,integrity,Tom is often selfish and has very little [integrity].,,,,,
+227,"Warren wanted to prove he was [intrepid], so he went sky-diving.",intrepid,"Warren wanted to prove he was [intrepid], so he went sky-diving.",Warren wanted to prove he was [impavid] so he went sky-diving.,2836,,,impavid
+218,"After she left, people could not stop talking about her [intrepid] actions.",intrepid,"After she left, people could not stop talking about her XXXXX actions.",,,,,
+224,"The dog protected his owner from the wolf, so he must be [intrepid]. ",intrepid,"The dog protected his owner from the wolf, so he must be [intrepid].",,,The [intrepid] dog protected his owner from the wolf.,4712,intrepid
+234,Policemen must be [intrepid] to fight crime every day.,intrepid,Policemen must be XXXXX to fight crime every day.,Policemen must be [impavid] to fight crime every day.,2294,,,impavid
+226,"He always seemed so [intrepid], it was strange to see his response to the mouse.",intrepid,"He always seemed so [intrepid], it was strange to see his response to the mouse.","He always seemed so [impavid], it was strange to see his response to the mouse.",2839,,,
+225,The child would have drowned if it were not for the [intrepid] diver.,intrepid,The child would have drowned if it were not for the XXXXX diver.,,,,,
+228,To reach your dreams sometimes you need to be [intrepid].,intrepid,To reach your dreams sometimes you need to be [intrepid].,,,,,
+931,"If you fail to renew your driver's license, it will be [invalidated].",invalidate,"If you fail to renew your driver's license, it will be [invalidated].",,,,,
+932,Teenagers sometimes feel that adults dismiss or [invalidate] their feelings. ,invalidate,Teenagers sometimes feel that adults dismiss or XXXXX their feelings.,,,,,
+936,If the scientist fails to keep the samples clean she could [invalidate] the study. ,invalidate,If the scientist fails to keep the samples clean she could XXXXX the study.,,,,,
+929,All it takes is a few sloppy researchers to [invalidate] a study.,invalidate,All it takes is a few sloppy researchers to XXXXX a study.,,,,,
+921,"If the girls have enough time tomorrow, they will try to [invalidate] it.",invalidate,"If the girls have enough time tomorrow, they will try to XXXXX it.",,,,,
+925,The council met and voted to [invalidate] the law.,invalidate,The council met and voted to XXXXX the law.,,,,,
+928,"I agree with your point, but it does not [invalidate] my argument.",invalidate,"I agree with your point, but it does not XXXXX my argument.",,,,,
+926,"Although you lost in court, that does not [invalidate] your claim.",invalidate,"Although you lost in court, that does not XXXXX your claim.",,,,,
+927,The Panthers felt like their efforts were [invalidated] by the recent loss.,invalidate,The Panthers felt like their efforts were [invalidated] by the recent loss.,,,,,
+934,"During our debate, Jimmy proved me wrong and [invalidated] my argument.",invalidate,"During our debate, Jimmy proved me wrong and [invalidated] my argument.",,,,,
+249,She can wrap her leg around her head because she is very [lithe].,lithe,She can wrap her leg around her head because she is very [lithe].,,,,,
+248,The athlete did the splits to prove that he was [lithe].,lithe,The athlete did the splits to prove that he was [lithe].,The athlete proved he was [lissome] by doing splits.,2413,,,lissome
+250,He cannot touch his toes because he is not very [lithe].,lithe,He cannot touch his toes because he is not very [lithe].,,,,,
+241,Our coach makes us warm up to make us more [lithe].,lithe,Our coach makes us warm up to make us more [lithe].,Our coach makes us warm up to make us more [lissome].,2412,,,lissome
+237,The ones that get chosen are the ones that are the most [lithe].,lithe,The ones that get chosen are the ones that are the most [lithe].,,,The most [lissome] ones are not always the ones that get chosen.,4054,lissome
+243,Annie won the contest because she was extremely [lithe].,lithe,Annie won the contest because she was extremely [lithe].,Annie won the contest because she was extremely [lissome].,2933,,,lissome
+244,"He enjoyed watching the dancers, who were all very [lithe].",lithe,"He enjoyed watching the dancers, who were all very [lithe].",,,,,
+269,The witch threatened to eat the children because she was [nefarious].,nefarious,The witch threatened to eat the children because she was [nefarious].,,,,,
+268,"In fairytales, heroes often dress in white, whereas [nefarious] characters dress in black.",nefarious,"In fairytales, heroes often dress in white, whereas XXXXX characters dress in black.",,,,,
+259,"In my dream he had horns on his head, so I thought he was [nefarious].",nefarious,"In my dream he had horns on his head, so I thought he was [nefarious].","In my dream he had horns on his head, so I knew he was [infandous].",2866,,,infandous
+261,Sometimes people do [nefarious] things without meaning to hurt people.,nefarious,Sometimes people do XXXXX things without meaning to hurt people.,Sometimes people do [infandous] things without meaning to hurt people.,2868,,,infandous
+258,That was the first time that I saw the picture of the [nefarious] man.,nefarious,That was the first time that I saw the picture of the XXXXX man.,,,,,
+264,Harry spent his life in prison because of his [nefarious] crimes.,nefarious,Harry spent his life in prison because of his XXXXX crimes.,,,,,
+270,"Clowns are supposed to be cute and funny, not scary and [nefarious].",nefarious,"Clowns are supposed to be cute and funny, not scary and [nefarious].",,,,,
+262,Jake wrote a story about a [nefarious] monster who lived in his closet.,nefarious,Jake wrote a story about a XXXXX monster who lived in his closet.,Jake wrote a story about an [infandous] monster that ate children.,2315,,,infandous
+265,The robber spent a lot of time perfecting his [nefarious] plan.,nefarious,The robber spent a lot of time perfecting his XXXXX plan.,,,,,
+263,The fire was started by a [nefarious] group of criminals.,nefarious,The fire was started by a XXXXX group of criminals.,,,,,
+465,The child was punished for trying to [pilfer] candy from the store.,pilfer,The child was punished for trying to XXXXX candy from the store.,The child was punished for trying to [purloin] candy from the store.,2557,,,purloin
+3700,We didn't know what to do after they [pilfered] it.,pilfer,We didn't know what to do after they [pilfered] it.,,,We didn't know what to do after they [pilfered] the monkey.,462,pilfered
+451,She told her friend that she used to [pilfer] things when she was a kid.,pilfer,She told her friend that she used to XXXXX things when she was a kid.,She told her friend that she used to [purloin] things when she was a kid.,2561,,,purloin
+452,The man [pilfered] the paperwork from the office before he left.,pilfer,The man [pilfered] the paperwork from the office before he left.,The man [purloined] the paperwork from the office before he left.,2562,,,purloined
+503,The Professor ignored questions and [pontificated] for the whole hour.,pontificate,The Professor ignored questions and [pontificated] for the whole hour.,,,,,
+490,Amy worked hard so she would be ready to [pontificate].,pontificate,Amy worked hard so she would be ready to [pontificate].,,,,,
+493,"When the customer got her meal, she started to [pontificate].",pontificate,"When the customer got her meal, she started to [pontificate].",,,,,
+497,Congress has a stage they use to [pontificate] about what's wrong with everything.,pontificate,Congress has a stage they use to XXXXX about what's wrong with everything.,,,,,
+502,"Whenever his son failed, the dad would [pontificate] about it for hours. ",pontificate,"Whenever his son failed, the dad would XXXXX about it for hours.",,,,,
+501,"Sally likes to give long lectures, i.e., to [pontificate] about everything.",pontificate,"Sally likes to give long lectures, i.e., to XXXXX about everything.",,,,,
+1111,Sometimes it is better to listen to others instead of [pontificating]. ,pontificate,Sometimes it is better to listen to others instead of [pontificating].,,,,,
+535,Pete lives by himself and avoids people so the townspeople think he's a [recluse].,recluse,Pete lives by himself and avoids people so the townspeople think he's a [recluse].,Pete lives by himself and avoids people so he must be a [cacogen].,3285,,,cacogen
+527,Her grandfather told us that he thought the book's writer was a [recluse]. ,recluse,Her grandfather told us that he thought the book's writer was a [recluse].,,,,,
+533,Max did not like to be bothered because he was a [recluse].,recluse,Max did not like to be bothered because he was a [recluse].,Max did not like to be bothered because he was a [cacogen].,3295,,,cacogen
+529,Harry is not just shy -- he's a mean old [recluse].,recluse,Harry is not just shy -- he's a mean old [recluse].,Harry is not just shy -- he's a mean old [cacogen].,3289,,,cacogen
+531,"Mary broke off her friendships, moved away, and eventually became a [recluse].",recluse,"Mary broke off her friendships, moved away, and eventually became a [recluse].","Mary broke off her friendships, moved away, and became a [cacogen].",3291,,,cacogen
+532,Susan was so quiet that people thought she was a [recluse].,recluse,Susan was so quiet that people thought she was a [recluse].,Susan was so quiet that people thought she was a [cacogen].,3293,,,cacogen
+534,Tom prefers the woods to the city because he's a [recluse].,recluse,Tom prefers the woods to the city because he's a [recluse].,Tom prefers the woods to the city because he's a [cacogen].,3296,,,cacogen
+553,"She sold secrets to the enemy, so we knew she was a [recreant].",recreant,"She sold secrets to the enemy, so we knew she was a [recreant].",,,,,
+1115,I have heard that there are plenty of [recreants] in the inner city.,recreant,I have heard that there are plenty of [recreants] in the inner city.,,,I have heard that there are plenty of [proditors] in the inner city.,2551,proditors
+554,"After Jim betrayed his family's trust, they treated him like a [recreant].",recreant,"After Jim betrayed his family's trust, they treated him like a [recreant].",,,,,
+548,John was a [recreant] and could not be trusted to keep the information secret.,recreant,John was a XXXXX and could not be trusted to keep the information secret.,John was a [proditor] and could not be trusted to keep the information secret.,3048,,,proditor
+549,"If you talk about someone behind their back, you might be a [recreant].",recreant,"If you talk about someone behind their back, you might be a [recreant].","If you talk about someone behind their back, you might be a [proditor].",3049,,,proditor
+1117,"Some people are secretive, but that doesn't mean they're all [recreants]. ",recreant,"Some people are secretive, but that doesn't mean they're all [recreants].","Some people are secretive, but that doesn't mean they're all [recreant].",550,,,recreant
+1118,Carmen never walks alone at night because she is afraid of [recreants].,recreant,Carmen never walks alone at night because she is afraid of [recreants].,Carmen never walks alone at night because she is afraid of [proditors].,3052,,,proditors
+573,"The neighbors complained about noise, no matter how [reticent] we were.",reticent,"The neighbors complained about noise, no matter how XXXXX we were.","The neighbors complained about noise, no matter how [conticent] we were.",2154,,,conticent
+1119,"It was hard to get Jane to talk, because she was typically so [reticent].",reticent,"It was hard to get Jane to talk, because she was typically so [reticent].","It was hard to get Jane to talk, because was typically so [reticent].",575,,,reticent
+574,"She asked him for an answer, but he kept [reticent] and refused to speak.",reticent,"She asked him for an answer, but he kept XXXXX and refused to speak.","She asked him for an answer, but he kept [conticent] and refused to speak.",2155,,,conticent
+1120,"Tracy was very shy and was usually [reticent], rather than talkative.",reticent,"Tracy was very shy and was usually [reticent], rather than talkative.",,,,,
+569,"The captive was worried and frightened, but he stayed [reticent].",reticent,"The captive was worried and frightened, but he stayed [reticent].",,,,,
+572,We talked quietly when we realized that everyone else was [reticent]. ,reticent,We talked quietly when we realized that everyone else was [reticent].,,,,,
+568,"Throughout the court case, the defendant was mostly [reticent]. ",reticent,"Throughout the court case, the defendant was mostly [reticent].",,,The guy was [conticent] throughout the court case.,3159,conticent
+564,"Compared with other people in our group, Kim is more [reticent].",reticent,"Compared with other people in our group, Kim is more [reticent].",,,,,
+359,"Becky polished the silver every day, so it would keep its [sheen]. ",sheen,"Becky polished the silver every day, so it would keep its [sheen].",,,,,
+360,"After we removed the tarnish from the plate, it had a beautiful [sheen].",sheen,"After we removed the tarnish from the plate, it had a beautiful [sheen].",,,,,
+1124,"Even through the dusty glass, we saw that the trophy had a bright [sheen].",sheen,"Even through the dusty glass, we saw that the trophy had a bright [sheen].",,,"Even though the dusty glass, we saw that the trophy had a bright [sheen].",358,sheen
+351,"After the floor was redone, it had a pleasant [sheen].",sheen,"After the floor was redone, it had a pleasant [sheen].",,,,,
+354,The hair stylist combed some product into my hair to give it some [sheen].,sheen,The hair stylist combed some product into my hair to give it some [sheen].,,,,,
+350,The advertisement said that the lotion would give your face a nice [sheen].,sheen,The advertisement said that the lotion would give your face a nice [sheen].,,,The ad on TV said that the lotion would give your face a [fulgor].,2828,fulgor
+349,I like jewelry that looks new and has a nice [sheen].,sheen,I like jewelry that looks new and has a nice [sheen].,,,,,
+1125,We knew there was an oil spill from the [sheen] on the surface.,sheen,We knew there was an oil spill from the XXXXX on the surface.,,,,,
+604,"Mandy didn't want to make a scene, so she [stifled] her feelings.",stifle,"Mandy didn't want to make a scene, so she [stifled] her feelings.",,,,,
+601,"No one else was laughing, so the girl [stifled] her giggle.",stifle,"No one else was laughing, so the girl [stifled] her giggle.",,,The girl [burked] her giggle since no one else was laughing.,2129,burked
+610,"Greg was embarrassed about his rumbling stomach, so he tried to [stifle] the sound. ",stifle,"Greg was embarrassed about his rumbling stomach, so he tried to XXXXX the sound.",,,,,
+608,"John covered his mouth, but he couldn't [stifle] the powerful sneeze.",stifle,"John covered his mouth, but he couldn't XXXXX the powerful sneeze.","John covered his mouth, but he couldn't [burke] the powerful sneeze.",2131,,,burke
+629,Nikki's mean jokes made Jill [surly] enough to hit her.,surly,Nikki's mean jokes made Jill XXXXX enough to hit her.,Nikki's mean jokes made Jill [iracund] enough to hit her.,2328,,,iracund
+1129,Jim took a long time to paint the picture of the man that was [surly].,surly,Jim took a long time to paint the picture of the man that was [surly].,Jim took a long to paint the picture of the man that was [iracund].,3196,Jim took a long to paint the picture of the man that was [surly].,617,"iracund,surly"
+615,After the game it was obvious that the boys were [surly].,surly,After the game it was obvious that the boys were [surly].,,,"After the game, it was obvious that the boys were [iracund].",3194,iracund
+630,"He yelled a lot when he was [surly], causing friends to avoid him.",surly,"He yelled a lot when he was [surly], causing friends to avoid him.","He yelled a lot when he was [iracund], causing friends to avoid him.",2332,,,
+620,Katie did not believe Phil was [surly] until he yelled at her.,surly,Katie did not believe Phil was XXXXX until he yelled at her.,Katie did not believe Phil was [iracund] until he yelled at her.,2330,,,iracund
+622,You could tell by her behavior that she was [surly] this morning.,surly,You could tell by her behavior that she was XXXXX this morning.,You could tell by her behavior that she was [iracund] this morning.,2333,,,iracund
+623,"When Todd left the house this morning, he didn't seem [surly]. ",surly,"When Todd left the house this morning, he didn't seem [surly].",,,,,
+1060,He was sweaty and tired after [travailing] all day in the factory.,travail,He was sweaty and tired after [travailing] all day in the factory.,He was sweaty and tired after [swinking] all day in the factory.,2619,,,swinking
+1048,Most people [travail] at some point in their life.,travail,Most people XXXXX at some point in their life.,Most people [swink] at some point in their life.,3087,,,swink
+1053,Tony claimed that he [travailed] just as hard as Stan did.,travail,Tony claimed that he [travailed] just as hard as Stan did.,Tony claimed that he [swinked] just as much as Stan did.,3083,,,swinked
+1052,Susie decided to [travail] for a few more hours before she ate.,travail,Susie decided to XXXXX for a few more hours before she ate.,Susie decided to [swink] for a few more hours before she ate.,3217,,,swink
+1056,Bob typically [travails] the hardest out of all of his friends.,travail,Bob typically [travails] the hardest out of all of his friends.,Bob typically [swinked] the hardest out of all of his friends.,2622,,,swinked
+1051,The time has come for all of us to [travail] together.,travail,The time has come for all of us to XXXXX together.,The time has come for all of us to [swink] together.,3215,,,swink
+1132,Susan decided to leave because she didn't want to [travail].,travail,Susan decided to leave because she didn't want to [travail].,,,,,
+681,"Interrupting someone, even a friend, is considered [uncouth] in many regions.",uncouth,"Interrupting someone, even a friend, is considered XXXXX in many regions.",,,,,
+679,Burping at the dinner table is considered [uncouth] in Western cultures.,uncouth,Burping at the dinner table is considered XXXXX in Western cultures.,,,,,
+680,If you do not say 'please' and 'thank you' some people might think you're [uncouth].,uncouth,If you do not say 'please' and 'thank you' some people might think you're [uncouth].,,,,,
+1134,"John is usually very polite, so we were shocked that he was so [uncouth].",uncouth,"John is usually very polite, so we were shocked that he was so [uncouth].",,,,,
+677,The student was considered [uncouth] by all of her high school teachers.,uncouth,The student was considered XXXXX by all of her high school teachers.,The student was considered [incult] by all of her high school teachers.,2310,,,incult
+673,The guests were offended when they were accused of being [uncouth].,uncouth,The guests were offended when they were accused of being [uncouth].,,,,,
+674,"The kids were asked to behave at the party, but they were deliberately [uncouth].",uncouth,"The kids were asked to behave at the party, but they were deliberately [uncouth].",,,,,
+678,"Hippies are generally carefree, but that doesn't mean they are [uncouth].",uncouth,"Hippies are generally carefree, but that doesn't mean they are [uncouth].",,,,,
+1136,It is hard to please my mother because she is so [captious].,captious,It is hard to please my mother because she is so [captious].,,,,,
+1143,Ted failed to notice that Billy was becoming more [captious].,captious,Ted failed to notice that Billy was becoming more [captious].,,,,,
+1148,David avoids Molly because she has a reputation for being [captious].,captious,David avoids Molly because she has a reputation for being [captious].,,,,,
+1149,I don't visit my parents very often because they are often [captious].,captious,I don't visit my parents very often because they are often [captious].,,,,,
+1154,"After the boy skipped class, he was [chastened] by the Principal.",chasten,"After the boy skipped class, he was [chastened] by the Principal.",,,,,
+4378,"After the embarrassing loss, the once-proud team was bruised and [chastened].",chasten,"After the embarrassing loss, the once-proud team was bruised and [chastened].","After the embarrassing loss, the once proud team was bruised and [chastened].",1156,,,chastened
+1157,"When he thought about the vastness of the universe, Rob felt deeply [chastened].",chasten,"When he thought about the vastness of the universe, Rob felt deeply [chastened].",,,,,
+1159,"We need to place the blame where it belongs, to [chasten] our politicians.",chasten,"We need to place the blame where it belongs, to XXXXX our politicians.",,,,,
+1161,"After Jane was finished with everything, she [chastened] them.",chasten,"After Jane was finished with everything, she [chastened] them.",,,,,
+NA,"After he lost the fight, the boxer looks a lot more [chastened]. ",chasten,"After he lost the fight, the boxer looks a lot more [chastened].",,,,,
+1167,"After the cook's assistant spilled the soup, he was [chastened]. ",chasten,"After the cook's assistant spilled the soup, he was [chastened].",,,,,
+1168,Sarah thought she was the best swimmer until the new student [chastened] her.,chasten,Sarah thought she was the best swimmer until the new student [chastened] her.,,,She thought she was the best swimmer until her failure at the Olympics [chastened] her.,2089,chastened
+1169,"Even though Ben lost the game badly, he was not [chastened].",chasten,"Even though Ben lost the game badly, he was not [chastened].",,,,,
+1171,"After being scolded by his mother, Mike felt [chastened].",chasten,"After being scolded by his mother, Mike felt [chastened].",,,,,
+1172,"After John talked back to his mother, his father punished his [insolence].",insolence,"After John talked back to his mother, his father punished his [insolence].",,,,,
+1174,John was banned from school after he displayed [insolence] toward the Principal.,insolence,John was banned from school after he displayed XXXXX toward the Principal.,,,,,
+1175,Kate's mother was angry and disappointed by her [insolence] toward authority.,insolence,Kate's mother was angry and disappointed by her XXXXX toward authority.,,,,,
+1177,The teenager responded with a snicker that bordered on [insolence].,insolence,The teenager responded with a snicker that bordered on [insolence].,,,,,
+1184,"Allen never listened, and Jane grew tired of his [insolence].",insolence,"Allen never listened, and Jane grew tired of his [insolence].",,,,,
+1186,Allen was grounded for a month because of his [insolence].,insolence,Allen was grounded for a month because of his [insolence].,,,,,
+1187,Bill and Sally were surprised and disappointed by the waiter's [insolence].,insolence,Bill and Sally were surprised and disappointed by the waiter's [insolence].,,,,,
+1189,The judge threatened the lawyer's license due to his [insolence].,insolence,The judge threatened the lawyer's license due to his [insolence].,,,,,
+1190,Let's try a new approach and not [adhere] to tradition.,adhere ,Let's try a new approach and not [adhere] to tradition.,,,,,
+NA,"Some of the investors reversed their decision, but Jim [adheres] to his.",adhere ,"Some of the investors reversed their decision, but Jim [adheres] to his.",,,,,
+1193,Jackie would prefer trying new methods than [adhering] to the old ones.,adhere ,Jackie would prefer trying new methods than [adhering] to the old ones.,,,,,
+1197,We might be unprepared for change if we always [adhere] to the plan.,adhere ,We might be unprepared for change if we always [adhere] to the plan.,,,,,
+1202,"Sometimes people can [adhere] to things, but sometimes they can't.",adhere ,"Sometimes people can [adhere] to things, but sometimes they can't.","Sometimes people can [attest] to certain things, but sometimes they can't.",1262,,,attest
+1212,I can be a biased judge because I [adhere] to my original preferences.,adhere ,I can be a biased judge because I [adhere] to my original preferences.,,,,,
+1214,"She is a very consistent person, [adhering] to a strict routine.",adhere ,"She is a very consistent person, [adhering] to a strict routine.",,,,,
+1220,Early education can help children of immigrants better [assimilate] into society.,assimilate,Early education can help children of immigrants better XXXXX into society.,,,,,
+1223,"Japan pushed Koreans to [assimilate], requiring them to speak Japanese and use Japanese names.",assimilate,"Japan pushed Koreans to [assimilate], requiring them to speak Japanese and use Japanese names.",,,,,
+NA,John moved here from China and is still [assimilating] to American culture and customs.,assimilate,John moved here from China and is still [assimilating] to American culture and customs.,,,,,
+1226,It is important to learn the language and customs of a region if you want to [assimilate].,assimilate,It is important to learn the language and customs of a region if you want to [assimilate].,,,,,
+1240,"When you move to a different country, it can take some time to [assimilate].",assimilate,"When you move to a different country, it can take some time to [assimilate].",,,,,
+1243,Immigrants may find it hard to [assimilate] when they don't feel welcome.,assimilate,Immigrants may find it hard to XXXXX when they don't feel welcome.,,,,,
+NA,Our school works hard to  help new students [assimilate].,assimilate,Our school works hard to help new students [assimilate].,,,,,
+1246,"Everyone wants to feel unique, but sometimes we feel pressured to [assimilate] into society.",assimilate,"Everyone wants to feel unique, but sometimes we feel pressured to XXXXX into society.",,,,,
+1251,Four witnesses have [attested] to the fact that the murderer was tall.,attest ,Four witnesses have [attested] to the fact that the murderer was tall.,,,,,
+1252,Professional athletes can [attest] to the fact that sports can be hard.,attest ,Professional athletes can [attest] to the fact that sports can be hard.,,,,,
+3652,"I'm applying to college, so I need teachers to [attest] that I'm a good student.",attest ,"I'm applying to college, so I need teachers to [attest] that I'm a good student.","I'm apply to college, so I need teachers to [attest] that I'm a good student.",1253,,,attest
+1255,"I've been shivering for days, so I can [attest] that the heater's broken.",attest ,"I've been shivering for days, so I can [attest] that the heater's broken.",,,,,
+1260,Sal wonders what it would be like to [attest] to a certain thing.,attest ,Sal wonders what it would be like to [attest] to a certain thing.,,,,,
+1271,My memory's so bad that I doubt I could [attest] to what happened.,attest ,My memory's so bad that I doubt I could [attest] to what happened.,,,,,
+3653,My pilot friend [attested] that looking out the window gets boring after awhile.,attest ,My pilot friend [attested] that looking out the window gets boring after awhile.,My pilot friend [attested] that looking out the window get boring after awhile.,1272,,,attested
+1273,"I thought chess was easy, but my experienced friend [attested] that it takes skill.",attest ,"I thought chess was easy, but my experienced friend [attested] that it takes skill.",,,,,
+1274,"Because of the sharp pain, he can [attest] that he'd be injured.",attest ,"Because of the sharp pain, he can [attest] that he'd be injured.",,,,,
+1280,My friend believes that crystal balls can [augur] the future. ,augur,My friend believes that crystal balls can XXXXX the future.,,,,,
+1283,"The dark, cloudy sky [augured] some very heavy rainfall.",augur,"The dark, cloudy sky [augured] some very heavy rainfall.",,,,,
+1284,"I'm not usually superstitious, but I believe that some events [augur] the future.",augur,"I'm not usually superstitious, but I believe that some events XXXXX the future.",,,,,
+1287,Flowers blooming in winter can [augur] an early spring.,augur,Flowers blooming in winter can XXXXX an early spring.,,,,,
+1291,I saw a show in which something was [augured].,augur,I saw a show in which something was [augured].,,,,,
+1300,"We were told that these omens [augur] good news, but we can't be sure.",augur,"We were told that these omens XXXXX good news, but we can't be sure.",,,,,
+1301,"I wish that the signs [augured] better news, but they don't.",augur,"I wish that the signs [augured] better news, but they don't.",,,,,
+1304,I wish that the fortune-teller [augured] much better news.,augur,I wish that the fortune-teller [augured] much better news.,,,,,
+1306,Everything seems to [augur] a future that is brighter than the past.,augur,Everything seems to XXXXX a future that is brighter than the past.,,,,,
+1330,"Some companies care for workers, but other [avaricious] ones care only for cash.",avaricious,"Some companies care for workers, but other XXXXX ones care only for cash.",,,,,
+1331,Rich people are sometimes tricked out of their money by [avaricious] swindlers.,avaricious,Rich people are sometimes tricked out of their money by XXXXX swindlers.,,,,,
+1332,"Caring for money is one thing, but being [avaricious] goes too far.",avaricious,"Caring for money is one thing, but being XXXXX goes too far.",,,,,
+1336,Some men joined the gold rush because they were [avaricious]. ,avaricious,Some men joined the gold rush because they were [avaricious].,,,,,
+1342,"The liquid looks dangerous, but it's actually quite [benign].",benign,"The liquid looks dangerous, but it's actually quite [benign].",,,,,
+1343,Ben felt safe around the dog because he knew the dog was [benign].,benign,Ben felt safe around the dog because he knew the dog was [benign].,,,,,
+1344,I didn't think that something that looks so [benign] could be poisonous.,benign,I didn't think that something that looks so XXXXX could be poisonous.,,,,,
+1345,"The snake looks venomous, but I know that she's actually [benign].",benign,"The snake looks venomous, but I know that she's actually [benign].",,,,,
+1351,Sometimes I wonder how many things are [benign] in the world.,benign,Sometimes I wonder how many things are XXXXX in the world.,,,,,
+1360,There are few things more [benign] than cute cat videos.,benign,There are few things more XXXXX than cute cat videos.,,,,,
+1363,I told Chuck to not to worry over things that are [benign].,benign,I told Chuck to not to worry over things that are [benign].,,,,,
+1372,The woman thought that his [brusque] response was a brush off.,brusque,The woman thought that his XXXXX response was a brush off.,,,,,
+1382,"In the film, Alice played a character who was very [brusque].",brusque,"In the film, Alice played a character who was very [brusque].",,,"In the movie, Alice played a character who was very [avaricious].",1322,avaricious
+1390,"Usually Jane is polite and patient, but today she is [brusque].",brusque,"Usually Jane is polite and patient, but today she is [brusque].",,,,,
+1393,"Karen was late, so she gave only [brusque] responses on her way out.",brusque,"Karen was late, so she gave only XXXXX responses on her way out.",,,,,
+1394,"When Lisa is in a hurry, she can come off as [brusque]. ",brusque,"When Lisa is in a hurry, she can come off as [brusque].",,,,,
+1395,The interview was very quick because she gave [brusque] answers.,brusque,The interview was very quick because she gave XXXXX answers.,,,,,
+1400,"Some people are easy to listen to, but his speeches are usually [caustic].",caustic,"Some people are easy to listen to, but his speeches are usually [caustic].",,,,,
+1401,Bob replied to the nasty comment with an equally [caustic] come-back.,caustic,Bob replied to the nasty comment with an equally XXXXX come-back.,,,,,
+1404,"My comments were polite and restrained, but hers were [caustic].",caustic,"My comments were polite and restrained, but hers were [caustic].",,,,,
+1405,"The movie review was extremely [caustic], and even the star actor came off badly.",caustic,"The movie review was extremely [caustic], and even the star actor came off badly.",,,,,
+1411,We were surprised to see how [caustic] it was.,caustic,We were surprised to see how XXXXX it was.,We were surprised to see how [dubious] it was.,1560,,,dubious
+1420,"As Jane got more annoyed, her replies became more [caustic].",caustic,"As Jane got more annoyed, her replies became more [caustic].",,,,,
+1421,What started off as a polite discussion became a [caustic] argument.,caustic,What started off as a polite discussion became a XXXXX argument.,,,,,
+1422,It's possible to give honest feedback without being [caustic].,caustic,It's possible to give honest feedback without being [caustic].,,,,,
+1425,"Though some people are sweet, others can be [caustic].",caustic,"Though some people are sweet, others can be [caustic].",,,,,
+1430,The president has a lot of [clout] over national politics.,clout ,The president has a lot of [clout] over national politics.,,,,,
+1431,I'm sure I can get you a raise because I have [clout].,clout ,I'm sure I can get you a raise because I have [clout].,,,,,
+1434,She did not have the [clout] to greatly affect the company's choices.,clout ,She did not have the [clout] to greatly affect the company's choices.,,,She did not have the [clout] to override the boss's decision.,4719,clout
+1435,"Only important politicians, business persons, and other people with [clout] are allowed inside.",clout ,"Only important politicians, business persons, and other people with [clout] are allowed inside.",,,,,
+1444,Sometimes it is harder to find someone with [clout] than other times.,clout ,Sometimes it is harder to find someone with [clout] than other times.,Sometimes it is harder to find someone with [perks] than other times.,1832,,,perks
+1450,"Surprisingly, the politician's husband had more [clout] than the politician.",clout ,"Surprisingly, the politician's husband had more [clout] than the politician.",,,,,
+1451,I sometimes wish I had the [clout] to change things without the responsibility.,clout ,I sometimes wish I had the [clout] to change things without the responsibility.,,,,,
+3660,"Although the bill was my idea, I needed the senator for her [clout].",clout ,"Although the bill was my idea, I needed the senator for her [clout].","Although the bill was my idea, I needed the Senator for her [clout].",1452,,,clout
+1453,"To make a change, one needs not only dedication but also [clout].",clout ,"To make a change, one needs not only dedication but also [clout].",,,,,
+1460,Tony tried to ignore the bully's loud and [derisive] wisecracks.,derisive,Tony tried to ignore the bully's loud and XXXXX wisecracks.,,,,,
+1464,Diana was punished for her insulting and [derisive] tone.,derisive,Diana was punished for her insulting and XXXXX tone.,,,,,
+1466,It is very unkind to mock someone with [derisive] laughter and insults.,derisive,It is very unkind to mock someone with XXXXX laughter and insults.,,,,,
+1467,The girls drove the new student to tears with their [derisive] comments.,derisive,The girls drove the new student to tears with their XXXXX comments.,,,,,
+1474,Sometimes it's hard to know whether they're [derisive] or not.,derisive,Sometimes it's hard to know whether they're XXXXX or not.,,,,,
+1480,Kevin got angry when he heard the [derisive] laughter.,derisive,Kevin got angry when he heard the XXXXX laughter.,,,,,
+1481,You should not make [derisive] comments to people you like.,derisive,You should not make XXXXX comments to people you like.,,,,,
+1486,I cried after she made [derisive] comments about my outfit.,derisive,I cried after she made XXXXX comments about my outfit.,,,,,
+1487,"I disagree with you, but I'd never say [derisive] things about you.",derisive,"I disagree with you, but I'd never say XXXXX things about you.",,,,,
+3667,"With the storm approaching, the ship had to [deviate] from its course.",deviate,"With the storm approaching, the ship had to XXXXX from its course.","With the storm approaching, the ship had to deviate from its course.",1492,,,
+1504,I wonder how many of them [deviate] from this.,deviate,I wonder how many of them XXXXX from this.,,,,,
+1510,"He keeps to his ideas, never [deviating] from his beliefs.",deviate,"He keeps to his ideas, never [deviating] from his beliefs.",,,,,
+3668,The basketball team won because they did not [deviate] from the game plan.,deviate,The basketball team won because they did not XXXXX from the game plan.,The basketball team won because they did not [deviate] from the game plan,1512,,,deviate
+1515,"I tried to follow the instructions, but I kept [deviating] from them.",deviate,"I tried to follow the instructions, but I kept [deviating] from them.",,,,,
+1517,The path was so hard to follow that they [deviated] from it twice.,deviate,The path was so hard to follow that they [deviated] from it twice.,,,,,
+NA,The couple separated due to a [discord] in their relationship.,discord,The couple separated due to a XXXXX in their relationship.,,,,,
+1522,"They were once friends, but now there seems to be [discord] between them.",discord,"They were once friends, but now there seems to be XXXXX between them.",,,,,
+1523,Everyone noticed the [discord] between the couples filing for divorce.,discord,Everyone noticed the XXXXX between the couples filing for divorce.,,,,,
+1525,The Democrats eagerly spread [discord] into the Republican ranks.,discord,The Democrats eagerly spread XXXXX into the Republican ranks.,,,,,
+1530,I used to think sometimes about the causes of [discord].,discord,I used to think sometimes about the causes of [discord].,,,I sometimes think about the causes of [epiphanies].,1623,epiphanies
+1540,Three people were killed after the [discord] within the mafia.,discord,Three people were killed after the XXXXX within the mafia.,,,,,
+1542,We should try to be friends instead of continuing to have [discord].,discord,We should try to be friends instead of continuing to have [discord].,,,,,
+1551,"Although he liked the plan, he thought its likelihood to succeed was [dubious].",dubious ,"Although he liked the plan, he thought its likelihood to succeed was [dubious].",,,,,
+1553,Someone who always lies is likely to be a [dubious] source of information.,dubious ,Someone who always lies is likely to be a [dubious] source of information.,,,,,
+1555,He says some of the company's claims are either [dubious] or outright false.,dubious ,He says some of the company's claims are either [dubious] or outright false.,,,,,
+1556,Paul knew that the evidence for his case was [dubious] at best.,dubious ,Paul knew that the evidence for his case was [dubious] at best.,,,,,
+1569,The store made the [dubious] claim that the shabby paintings were masterpieces.,dubious ,The store made the [dubious] claim that the shabby paintings were masterpieces.,,,,,
+1570,"We should try to use reliable information, not [dubious] fantasies.",dubious ,"We should try to use reliable information, not [dubious] fantasies.",,,,,
+1571,The most outrageous claims tend to be the most [dubious].,dubious ,The most outrageous claims tend to be the most [dubious].,,,,,
+1575,One should always avoid [dubious] information in research papers.,dubious ,One should always avoid [dubious] information in research papers.,,,,,
+1599,"Born into a lowly family, he rose to [eminence] with his great deeds.",eminence,"Born into a lowly family, he rose to XXXXX with his great deeds.",,,,,
+1600,"The snob would not speak to common folk, but only people with [eminence].",eminence,"The snob would not speak to common folk, but only people with [eminence].",,,,,
+1602,She has such [eminence] in business that everyone hears her opinions.,eminence,She has such XXXXX in business that everyone hears her opinions.,,,,,
+1605,"He may look unimportant, but he has [eminence] in fashion.",eminence,"He may look unimportant, but he has XXXXX in fashion.",,,,,
+1609,John had a sudden change of heart when he experienced an [epiphany].,epiphany,John had a sudden change of heart when he experienced an [epiphany].,,,,,
+1612,New works of art are often inspired by a powerful [epiphany].,epiphany,New works of art are often inspired by a powerful [epiphany].,,,,,
+1614,The politician understood how to fix the crisis after a sudden [epiphany].,epiphany,The politician understood how to fix the crisis after a sudden [epiphany].,,,,,
+1616,"Sometimes ideas come slowly, but other times they come as an [epiphany].",epiphany,"Sometimes ideas come slowly, but other times they come as an [epiphany].",,,,,
+1619,I believe that may have been an [epiphany].,epiphany,I believe that may have been an [epiphany].,,,,,
+1630,I hope the solution to the problem comes to me in an [epiphany].,epiphany,I hope the solution to the problem comes to me in an [epiphany].,,,,,
+1631,The chef had a sudden [epiphany] that the soup needed more salt.,epiphany,The chef had a sudden XXXXX that the soup needed more salt.,,,,,
+1632,"As soon as he saw the boot print, the detective had an [epiphany].",epiphany,"As soon as he saw the boot print, the detective had an [epiphany].",,,,,
+1633,"Being skilled at chess comes with hard work, not a sudden [epiphany].",epiphany,"Being skilled at chess comes with hard work, not a sudden [epiphany].",,,,,
+1638,"The situation is already very bad, so please don't [exacerbate] it.",exacerbate ,"The situation is already very bad, so please don't [exacerbate] it.",,,,,
+1640,"I know we are in danger, but panicking will only [exacerbate] the situation.",exacerbate ,"I know we are in danger, but panicking will only [exacerbate] the situation.",,,,,
+1641,News of their strange death [exacerbated] the public's suspicion of foul play.,exacerbate ,News of their strange death [exacerbated] the public's suspicion of foul play.,,,,,
+1642,The patient's bad health could have been [exacerbated] by bad eating habits.,exacerbate ,The patient's bad health could have been [exacerbated] by bad eating habits.,,,,,
+1652,I wonder what sorts of things she had [exacerbated].,exacerbate ,I wonder what sorts of things she had [exacerbated].,,,,,
+1658,"Even though they're liquids, some cleaners can [exacerbate] a fire.",exacerbate ,"Even though they're liquids, some cleaners can [exacerbate] a fire.",,,,,
+1659,The war is likely going to [exacerbate] the country's hunger problems.,exacerbate ,The war is likely going to [exacerbate] the country's hunger problems.,,,,,
+1669,"When my father is mad, we easily see his face [glowering].",glower ,"When my father is mad, we easily see his face [glowering].",,,,,
+1670,"After the Steelers lost, a few fans left smiling, but most were [glowering].",glower ,"After the Steelers lost, a few fans left smiling, but most were [glowering].",,,,,
+1673,They were all scared because the angry woman [glowered] at them.,glower ,They were all scared because the angry woman [glowered] at them.,,,,,
+1675,The animal looks cute until she [glowers] angrily at us.,glower ,The animal looks cute until she [glowers] angrily at us.,,,,,
+1678,I heard that certain people [glower] more than others.,glower ,I heard that certain people [glower] more than others.,,,I heard that certain people [wince] more than others.,4635,wince
+1688,The cashier couldn't help [glowering] at the annoying customer.,glower ,The cashier couldn't help [glowering] at the annoying customer.,,,,,
+1690,"Because the child was being very rude, his mother [glowered] at him.",glower ,"Because the child was being very rude, his mother [glowered] at him.",,,,,
+1691,"After losing the game, we [glowered] angrily at our opponents.",glower ,"After losing the game, we [glowered] angrily at our opponents.",,,,,
+1692,"When she caught the dog in the pantry, she [glowered] at him.",glower ,"When she caught the dog in the pantry, she [glowered] at him.",,,,,
+1698,The criminal was sentenced to life in prison because of his [heinous] acts. ,heinous,The criminal was sentenced to life in prison because of his XXXXX acts.,,,,,
+1700,The remorseful man asked the priest if such a [heinous] act could ever be forgiven.,heinous,The remorseful man asked the priest if such a XXXXX act could ever be forgiven.,,,,,
+1702,The executioner committed some of the most [heinous] atrocities imaginable. ,heinous,The executioner committed some of the most XXXXX atrocities imaginable.,,,,,
+1705,The guilty man's actions were so [heinous] not even his mother could love him. ,heinous,The guilty man's actions were so XXXXX not even his mother could love him.,,,,,
+1708,The one that we saw on TV was much more [heinous].,heinous,The one that we saw on TV was much more [heinous].,,,,,
+1718,A few good deeds does not make up for a truly [heinous] act.,heinous,A few good deeds does not make up for a truly XXXXX act.,,,,,
+1721,"Lying is bad, but it is not exactly [heinous].",heinous,"Lying is bad, but it is not exactly [heinous].",,,,,
+1728,"I forgot to feed my plant for weeks, so they began to [languish].",languish ,"I forgot to feed my plant for weeks, so they began to [languish].",,,,,
+1732,My motivation to practice began to [languish] as I lost interest.,languish ,My motivation to practice began to [languish] as I lost interest.,,,,,
+1733,"After weeks in a cast, the muscles in John's left arm had [languished].",languish ,"After weeks in a cast, the muscles in John's left arm had [languished].",,,,,
+1734,Celebrities sometime act silly to stop their popularity from [languishing].,languish ,Celebrities sometime act silly to stop their popularity from [languishing].,,,,,
+1748,"If you eat unhealthy food all the time, your body may [languish].",languish ,"If you eat unhealthy food all the time, your body may [languish].",,,,,
+1751,"Rather than become stronger, I began to [languish] after the diet.",languish ,"Rather than become stronger, I began to [languish] after the diet.",,,,,
+1753,"I used to be strong, but after many years I [languished].",languish ,"I used to be strong, but after many years I [languished].",,,,,
+1755,"The bush used to be green and strong, but now it has [languished].",languish ,"The bush used to be green and strong, but now it has [languished].",,,,,
+1758,The businessman persuaded us that the investment would be very [lucrative].,lucrative,The businessman persuaded us that the investment would be very [lucrative].,The businessman rejected the deal because it was unlikely to be [lucrative].,1766,,,lucrative
+1768,The one that we heard about earlier is more [lucrative].,lucrative,The one that we heard about earlier is more [lucrative].,,,,,
+1778,Bob no longer wishes to invest because the company isn't [lucrative] anymore.,lucrative,Bob no longer wishes to invest because the company isn't XXXXX anymore.,,,,,
+1779,"John had envisioned some brilliant inventions, but nothing has proved to be [lucrative] yet.",lucrative,"John had envisioned some brilliant inventions, but nothing has proved to be XXXXX yet.",,,,,
+1780,The merchant chose to open his shop on the [lucrative] side of town.,lucrative,The merchant chose to open his shop on the XXXXX side of town.,,,,,
+1784,"After losing so much money, the farmer needed a [lucrative] harvest.",lucrative,"After losing so much money, the farmer needed a XXXXX harvest.",,,,,
+1788,The old woman had a sense of [nostalgia] when she heard her mother's voice.,nostalgia ,The old woman had a sense of [nostalgia] when she heard her mother's voice.,,,,,
+1789,The picture of my old house gave me feelings of [nostalgia].,nostalgia ,The picture of my old house gave me feelings of [nostalgia].,Seeing her childhood friend always brings back feelings of [nostalgia].,1808,,,nostalgia
+4396,"When Chris saw his high school yearbook, he had a sudden feeling of [nostalgia].",nostalgia ,"When Chris saw his high school yearbook, he had a sudden feeling of [nostalgia].",When Chris saw his high school yearbook he had a sudden feeling of [nostalgia].,1790,,,nostalgia
+1792,Songs from your childhood can make you feel [nostalgia] for the past.,nostalgia ,Songs from your childhood can make you feel [nostalgia] for the past.,,,,,
+1798,In the paper the author talks about his [nostalgia].,nostalgia ,In the paper the author talks about his [nostalgia].,,,,,
+1808,Seeing her childhood friend always brings back feelings of [nostalgia]. ,nostalgia ,Seeing her childhood friend always brings back feelings of [nostalgia].,Attending his high school reunion brought back feelings of [nostalgia].,1814,,,nostalgia
+1812,Seeing the first car he ever bought brought up feelings of [nostalgia].,nostalgia ,Seeing the first car he ever bought brought up feelings of [nostalgia].,,,,,
+1813,Looking through his old toys in the garage brought up feelings of [nostalgia].,nostalgia ,Looking through his old toys in the garage brought up feelings of [nostalgia].,Seeing her childhood friend always brings back feelings of [nostalgia].,1808,,,nostalgia
+1814,Attending his high school reunion brought back feelings of [nostalgia].,nostalgia ,Attending his high school reunion brought back feelings of [nostalgia].,Seeing her childhood friend always brings back feelings of [nostalgia].,1808,,,nostalgia
+1818,Having a big house is a [perk] of making lots of money.,perk,Having a big house is a XXXXX of making lots of money.,,,,,
+1819,"I was friends with the boss, so I sometimes got extra [perks].",perk,"I was friends with the boss, so I sometimes got extra [perks].",,,,,
+1820,Many jobs provide free childcare as a [perk].,perk,Many jobs provide free childcare as a [perk].,,,,,
+1821,Bob's new job has the [perk] of being closer to his home.,perk,Bob's new job has the XXXXX of being closer to his home.,,,,,
+1838,"After James became class president he received lots of [perks], including longer breaks. ",perk,"After James became class president he received lots of [perks], including longer breaks.",,,,,
+1839,Getting good grades is one of the [perks] of taking easy classes.,perk,Getting good grades is one of the [perks] of taking easy classes.,,,,,
+1844,One of the [perks] of going to college is help finding a job.,perk,One of the [perks] of going to college is help finding a job.,,,,,
+1845,"Having rich friends can come with [perks], such as getting free meals.",perk,"Having rich friends can come with [perks], such as getting free meals.",,,,,
+1849,"After the surfer wasn't allowed in the water, she was [perturbed].",perturbed,"After the surfer wasn't allowed in the water, she was [perturbed].",,,,,
+1851,"When I made a joke about being old, my grandmother seemed very [perturbed].",perturbed,"When I made a joke about being old, my grandmother seemed very [perturbed].",,,,,
+1853,"The dog ate John's favorite shoes, so he spent the evening feeling [perturbed].",perturbed,"The dog ate John's favorite shoes, so he spent the evening feeling [perturbed].",,,,,
+1854,"While Allen was playing with his loudest toy, his babysitter became [perturbed].",perturbed,"While Allen was playing with his loudest toy, his babysitter became [perturbed].",,,,,
+1862,Certain members of the group were [perturbed].,perturbed,Certain members of the group were [perturbed].,Certain members of the group [glowered] more than others.,1687,,,glowered
+1869,The losing team felt [perturbed] by the other team's cheating.,perturbed,The losing team felt XXXXX by the other team's cheating.,,,,,
+1871,The employee was [perturbed] after talking to her rude boss.,perturbed,The employee was XXXXX after talking to her rude boss.,,,,,
+1878,Kings who live in luxury care little about the [plight] of peasants.,plight,Kings who live in luxury care little about the XXXXX of peasants.,,,,,
+1879,"I wish to end their [plight], but I don't know how to help.",plight,"I wish to end their [plight], but I don't know how to help.",,,,,
+1881,I think that people in good situations should care about others' [plights].,plight,I think that people in good situations should care about others' [plights].,,,,,
+1882,Billy's lucky situation was so different from Jackie's [plight].,plight,Billy's lucky situation was so different from Jackie's [plight].,,,,,
+1908,The land was flat except for a single [protrusion].,protrusion,The land was flat except for a single [protrusion].,,,,,
+1909,"I thought the sidewalk was flat, but then I tripped over the [protrusion].",protrusion,"I thought the sidewalk was flat, but then I tripped over the [protrusion].",,,,,
+1911,The doctor noticed a boney [protrusion] and realized her arm was broken.,protrusion,The doctor noticed a boney XXXXX and realized her arm was broken.,,,,,
+1912,The roof that used to be flat now has too many [protrusions].,protrusion,The roof that used to be flat now has too many [protrusions].,,,,,
+1918,"Three days ago, I overheard a discussion on [protrusions].",protrusion,"Three days ago, I overheard a discussion on [protrusions].","Three days ago, I overheard a discussion on [turmoil].",1980,,,turmoil
+1929,"I often walk barefoot, so I must watch out for [protrusions].",protrusion,"I often walk barefoot, so I must watch out for [protrusions].",,,,,
+1931,I couldn't sleep because the [protrusions] in my bed hurt my back.,protrusion,I couldn't sleep because the [protrusions] in my bed hurt my back.,,,,,
+1938,"Until there's evidence to the contrary, the author's conclusion is the most [tenable].",tenable,"Until there's evidence to the contrary, the author's conclusion is the most [tenable].",,,,,
+1940,"The plan used to work, but now I don't think it's [tenable].",tenable,"The plan used to work, but now I don't think it's [tenable].",,,,,
+3674,The proposal that there are human-like aliens on Mars is not very [tenable].,tenable,The proposal that there are human-like aliens on Mars is not very [tenable].,The proposal that there are aliens on Mars is not very [tenable].,1941,,,tenable
+1943,"If we want to get fit, our habit of eating only junk food isn't [tenable].",tenable,"If we want to get fit, our habit of eating only junk food isn't [tenable].",,,,,
+1948,To me it seems like this one is the most [tenable].,tenable,To me it seems like this one is the most [tenable].,,,,,
+1958,We need a solution to climate change that is politically [tenable].,tenable,We need a solution to climate change that is politically [tenable].,,,,,
+1959,Skipping class isn't a [tenable] option for someone who wants to graduate.,tenable,Skipping class isn't a XXXXX option for someone who wants to graduate.,,,,,
+1963,Contact sports like football are less [tenable] when you are injured.,tenable,Contact sports like football are less XXXXX when you are injured.,,,,,
+1964,He worked all night to come up with a [tenable] case for his client.,tenable,He worked all night to come up with a XXXXX case for his client.,,,,,
+1969,People are fleeing from Syria because of all the fighting and political [turmoil].,turmoil,People are fleeing from Syria because of all the fighting and political [turmoil].,,,,,
+1970,The financial collapse in 2008 caused a lot of suffering and [turmoil].,turmoil,The financial collapse in 2008 caused a lot of suffering and [turmoil].,,,,,
+1971,"After the war, there was a long period of [turmoil].",turmoil,"After the war, there was a long period of [turmoil].",,,,,
+1974,"The streets are safe now, but there used to be lots of [turmoil].",turmoil,"The streets are safe now, but there used to be lots of [turmoil].",,,,,
+1978,I wonder how much [turmoil] exists in the world.,turmoil,I wonder how much XXXXX exists in the world.,,,,,
+1989,The broken legal system has brought much [turmoil].,turmoil,The broken legal system has brought much [turmoil].,,,,,
+1992,I am worried by all the [turmoil] in my life.,turmoil,I am worried by all the XXXXX in my life.,,,,,
+1994,Lisa looked for some inner peace amid all the [turmoil].,turmoil,Lisa looked for some inner peace amid all the [turmoil].,,,,,
+1995,War can be a time of lots of [turmoil].,turmoil,War can be a time of lots of [turmoil].,,,,,
+1999,Saudi Arabia and Iran have long [vied] for influence in the Middle East.,vie,Saudi Arabia and Iran have long [vied] for influence in the Middle East.,,,,,
+2001,The two siblings were eagerly [vying] for their mother's attention.,vie,The two siblings were eagerly [vying] for their mother's attention.,,,,,
+2002,"In the final stage of the competition, two weight lifters will [vie] for the title.",vie,"In the final stage of the competition, two weight lifters will XXXXX for the title.",,,,,
+2003,"In the competition this Sunday, both teams will [vie] for the championship.",vie,"In the competition this Sunday, both teams will XXXXX for the championship.",,,,,
+2008,I sometimes why it is that people [vie] for certain things.,vie,I sometimes why it is that people XXXXX for certain things.,,,,,
+2018,Richard has been [vying] for increased support.,vie,Richard has been [vying] for increased support.,,,,,
+2020,The group of tourists all [vied] for a closer look at the Statue of Liberty.,vie,The group of tourists all [vied] for a closer look at the Statue of Liberty.,,,,,
+2021,Ryan isn't competitive except when he is [vying] for jobs.,vie,Ryan isn't competitive except when he is [vying] for jobs.,,,,,
+2023,Many artists are [vying] for the chance to paint the famous building.,vie,Many artists are [vying] for the chance to paint the famous building.,,,,,
+2028,"After falling, the old man got back up by his own [volition].",volition ,"After falling, the old man got back up by his own [volition].",,,,,
+2039,The young man did his homework on his own [volition].,volition ,The young man did his homework on his own [volition].,The young man decided to clean his room by his own [volition].,2045,,,volition
+2049,His legs seemed to moved on their own [volition] when he fell.,volition ,His legs seemed to moved on their own [volition] when he fell.,,,,,
+2051,The injured football player walked off the field by his own [volition].,volition ,The injured football player walked off the field by his own [volition].,,,,,
+2053,The upset man left the room by his own [volition].,volition ,The upset man left the room by his own [volition].,,,,,
+2054,He could leave with the police or by his own [volition]. ,volition ,He could leave with the police or by his own [volition].,,,,,
+877,Tom's wife [goaded] him into buying her a new dress.,goad,Tom's wife [goaded] him into buying her a new dress.,,,,,
+2058,The protesters kept complaining until they [goaded] the mayor into action.,goad,The protesters kept complaining until they [goaded] the mayor into action.,The protesters kept complaining until they [chivy] the mayor into action.,3328,,,chivy
+879,Matthew's little sister [goaded] him in her most annoying voice until he got mad.,goad,Matthew's little sister [goaded] him in her most annoying voice until he got mad.,Matthew's little sister [chivied] him in her most annoying voice until he got mad.,3329,,,chivied
+2059,The government was silent until it was [goaded] into action by a national outcry.,goad,The government was silent until it was [goaded] into action by a national outcry.,,,,,
+865,Gary thought about the last time that someone tried to [goad] him.,goad,Gary thought about the last time that someone tried to XXXXX him.,,,,,
+2061,Some kids are more likely to be [goaded] into doing stupid things.,goad,Some kids are more likely to be [goaded] into doing stupid things.,,,,,
+2062,The editor had high expectations and [goaded] the writer to work harder.,goad,The editor had high expectations and [goaded] the writer to work harder.,The editor had high expectations and [chivy] the writer every day to work harder.,3331,The editor had high standards and [goaded] the writer every day to work harder.,873,"chivy,goaded"
